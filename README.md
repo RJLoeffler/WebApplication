@@ -8,43 +8,32 @@ I'm Robert, and I recently took a deep dive into the world of cloud computing wi
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
+- <b>PHP</b> 
+- <b>Docker</b>
+- <b>Azure App Service</b>
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Microsoft Azure Cloud</b>
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Success of the Cyber blog deployment: <br/>
+<img src="https://i.imgur.com/grYbT8X.png" height="80%" width="80%" alt=/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<img src="https://i.imgur.com/RJJsj9I.png" height="80%" width="80%" alt=/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Deployed WAF (Web Application Firewall) to help protect my web application from common web vulnerabilities and exploits. Also known as Azure Front Door  <br/>
+<img src="https://i.imgur.com/cL6q2aw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+I created a custom rule to tailor the WAF protection to the specific needs of my application. This allowed me to be able to address unique vulnerabilities or enforce specific security policies. This screenshot shows that the costom rule is enabled and in place of my application <br/>
+<img src="https://i.imgur.com/LqjgmXE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 
 <!--
  ```diff

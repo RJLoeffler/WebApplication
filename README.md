@@ -15,8 +15,7 @@ I'm Robert, and I recently took a deep dive into the world of cloud computing wi
 
 - <b>Microsoft Azure Cloud</b>
 
-<h2>Project walk-through:</h2>
-
+<h2>Project walk-through: Technical Briefing Document </h2>"https://docs.google.com/document/d/1RI_fyZbxwaE_Xb7C-lOjkZ_P8TaTSlPT-WWqZPYj0jc/edit?usp=sharing"
 <p align="center">
 Success of the Cyber blog deployment: <br/>
 <img src="https://i.imgur.com/grYbT8X.png" height="80%" width="80%" alt=/>
